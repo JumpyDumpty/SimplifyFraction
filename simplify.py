@@ -17,6 +17,7 @@ print(simplify("100/400"))
 print(simplify("8/4"))
 print(simplify("10/11"))
 print(simplify("4/6"))
+print(simplify("114/514"))
 
 
 
